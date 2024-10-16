@@ -1,0 +1,5 @@
+Blinker==1.8.2 
+click==8.1.7 
+Flask==3.0.3 
+Markupsafe==3.0.1 
+Werkzeug==3.0.4 
